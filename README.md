@@ -4,11 +4,12 @@
 
 Nessa atividade foi recriado o layout, com foco em: 
 
-- Na estruturação do projeto com HTML 
-- Conceitos básicos em CSS 
+- Na estruturação do projeto com HTML; 
+- Conceitos básicos em CSS;
 - Posicionamento e alinhamento de elementos na tela;
 - Aplicando fontes customizadas;
-- Espaçamentos
+- Espaçamentos;
+- Uso de favicon;
 
 
 <img src= "./github-img/project.png" width="100%">
