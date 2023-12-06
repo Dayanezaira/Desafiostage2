@@ -4,23 +4,19 @@ h1 {
     font-weight: 500;
     font-size: 32px;
 }
-
 body{
     font-family: 'Open Sans';
     text-align: center;
     margin: 0;
 }
-
 #general {
     width: 626px;
     margin: 64px auto 64px;
     line-height: 22px;
 }
-
 span {
     color: #EE24FF;
 }
-
 p {
     font-family: 'Open Sans', sans-serif;
     color: #828282;
@@ -31,33 +27,27 @@ p {
     padding-right: 43px;
     padding-bottom: 30px;
 }
-
 strong {
     color: #3F3D56;
 }
-
 .flutuar{
     color: #828282;
 }
-
 .title {
     color: #EE24FF;
     font-weight: 700;
 }
-
 #line {
     Width: 391px;
     border: 1px solid #ECEFF2;
     margin: 0 auto 16px;
 }
-
 footer {
     text-align: center;
     margin-top: 64px;
     margin-bottom: 0;
     height: 160px;
 }
-
 footer img {
     width: 100%;
     height: 104px;
@@ -65,7 +55,6 @@ footer img {
     bottom: 0px;
     right: 0px;
 }
-
 footer strong + strong {
     margin-left: 42px;
 }
